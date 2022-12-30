@@ -9,7 +9,7 @@
   "author": "abhishek",
   "license": "ISC",
   "dependencies": {
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "mongoose": "^5.9.20",
     "nodemon": "^2.0.4"
   }
