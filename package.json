@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "mocha": "^8.0.1",
-    "mongoose": "^5.9.20",
+    "mongoose": "^5.13.15",
     "nodemon": "^2.0.4"
   }
 }
